@@ -1,0 +1,106 @@
+{
+  "event_id": "ef91969e-9cbb-4ead-b685-be35239f8134",
+  "source_id": "b18e778d-fd12-4f89-9eb8-6fae723abd6d",
+  "set": "2018 CLC Kreisel Lecture with Michael Crummey - English [Index]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 267,
+      "annotation": [
+        {
+          "text": "Introduction and Land Acknowledgment from CLC Director Marie Carrière"
+        }
+      ],
+      "tags": [],
+      "uuid": "da405e70-ef15-421a-938b-9fc31a0c915a"
+    },
+    {
+      "start_time": 271,
+      "end_time": 560,
+      "annotation": [
+        {
+          "text": "Dean's Welcome - Lesley Cormack"
+        }
+      ],
+      "tags": [],
+      "uuid": "88608fea-3dda-421c-a438-5e8c42a6c3c8"
+    },
+    {
+      "start_time": 565,
+      "end_time": 1199,
+      "annotation": [
+        {
+          "text": "Dr. Margaret Mackey introduces Michael Crummey"
+        }
+      ],
+      "tags": [],
+      "uuid": "59a31ea6-a406-41ff-bea9-e28859606da4"
+    },
+    {
+      "start_time": 1208,
+      "end_time": 1886,
+      "annotation": [
+        {
+          "text": "Most of What Follows is True"
+        }
+      ],
+      "tags": [],
+      "uuid": "362329a9-e16c-4712-a0c6-2219bb5f10fe"
+    },
+    {
+      "start_time": 1887,
+      "end_time": 2260,
+      "annotation": [
+        {
+          "text": "The Mirror of Fiction"
+        }
+      ],
+      "tags": [],
+      "uuid": "d2a263cf-a46a-4a04-8ecb-cd8c82159553"
+    },
+    {
+      "start_time": 2261,
+      "end_time": 2951,
+      "annotation": [
+        {
+          "text": "Misrepresentation of Newfoundland"
+        }
+      ],
+      "tags": [],
+      "uuid": "0e8220eb-6170-42a8-b596-4029617800c5"
+    },
+    {
+      "start_time": 2952,
+      "end_time": 3714,
+      "annotation": [
+        {
+          "text": "Taking Liberties"
+        }
+      ],
+      "tags": [],
+      "uuid": "5ebb539b-b7d0-4647-84d8-57d81a887d15"
+    },
+    {
+      "start_time": 3715,
+      "end_time": 3949,
+      "annotation": [
+        {
+          "text": "Conclusion"
+        }
+      ],
+      "tags": [],
+      "uuid": "455f118d-5880-4043-b6fc-efeb06912a9c"
+    },
+    {
+      "start_time": 3950,
+      "end_time": 4522,
+      "annotation": [
+        {
+          "text": "Q & A"
+        }
+      ],
+      "tags": [],
+      "uuid": "b8035814-39f3-4c25-92bb-c87335fb1a45"
+    }
+  ]
+}

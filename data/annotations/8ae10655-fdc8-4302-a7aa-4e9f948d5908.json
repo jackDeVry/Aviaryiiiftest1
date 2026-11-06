@@ -1,0 +1,18 @@
+{
+  "event_id": "425fc923-8f59-4c0b-8d3a-8593aa49e3e8",
+  "source_id": "ddb4e738-412f-4e57-b45d-ff259c0d87bb",
+  "set": "English [Transcript]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "https://d9jk7wjtjpu5g.cloudfront.net/file_transcripts/associated_files/000/078/857/original/whisper_transcript_2025-04-25_16_22_53_-0500.vtt?1745616173"
+        }
+      ],
+      "tags": [],
+      "uuid": "d75fcc0b-529c-419c-b93d-976c7a391784"
+    }
+  ]
+}

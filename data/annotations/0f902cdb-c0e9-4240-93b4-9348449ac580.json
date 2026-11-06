@@ -11464,6 +11464,22 @@
       ],
       "tags": [],
       "uuid": "e221097e-95a2-4dbc-beaf-c4db5c7d4315"
+    },
+    {
+      "start_time": 1,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A lot is happening!"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8ec74c03-bf67-4555-a5fe-9aa8d3633b4f"
     }
   ]
 }
